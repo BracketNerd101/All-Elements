@@ -3,6 +3,13 @@ body {
   min-height: 1300px; }
 
 .hero_style {
-  height: inherit; }
+  height: 100vh;
+  background-color: #111111; }
+  .hero_style .nav_selection {
+    display: flex; }
+    .hero_style .nav_selection .nav_spot {
+      justify-content: space-between;
+      color: #bdff00;
+      font-size: 2rem; }
 
 /*# sourceMappingURL=main_style.css.map */
