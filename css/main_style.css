@@ -1,4 +1,8 @@
+@import url("https://fonts.googleapis.com/css?family=M+PLUS+1p|Passion+One&display=swap");
 body {
   min-height: 1300px; }
+
+.hero_style {
+  height: inherit; }
 
 /*# sourceMappingURL=main_style.css.map */
