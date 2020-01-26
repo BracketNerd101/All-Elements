@@ -11,7 +11,8 @@ body {
 
 .hero_style {
 
-    height: 100vh;
+    height: 50rem;
+    width: 100vw;
     background-color: #111111;
 
     .nav_selection {
@@ -21,11 +22,14 @@ body {
         .nav_spot {
 
             justify-content: space-between;
-            color: #bdff00 ;
+            color: #bdff00;
             font-size: 2rem;
+            font-family: 'M PLUS 1p', sans-serif;
         }
     }
 
+
 }
+
 
 // #bdff00 Hot green color 
