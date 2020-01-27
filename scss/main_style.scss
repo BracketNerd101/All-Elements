@@ -15,21 +15,81 @@ body {
     width: 100vw;
     background-color: #111111;
 
-    .nav_selection {
-        display: flex;
+    .jumbo_reset {
 
+        background-color: transparent;
+        
+    }
+
+    .lime-background-style {
+
+        background-color: #bdff00;;
+    }
+
+    .headline_font {
+
+        font-family: 'Passion One', cursive;
+        color: #bdff00;
+    }
+
+    .headline_font_white {
+
+        font-family: 'Passion One', cursive;
+        color: #ffffff;
+    }
+    .small_top_padding {
+       padding-top: 9rem;
+
+       }
 
         .nav_spot {
 
-            justify-content: space-between;
             color: #bdff00;
             font-size: 2rem;
-            font-family: 'M PLUS 1p', sans-serif;
+            font-family: 'Passion One', cursive;
+    
         }
-    }
 
+}
 
+.mosaic-w1 {
+
+    height: 40rem;
+    width: 100%;
+    // background-image: url("../img/design_3.jpg");
+    // background-size: cover;
+}
+.mosaic-w2 {
+
+    height: 40rem;
+    width: 100%;
+    // background-image: url("../img/dev_3.jpg");
+    // background-size: cover;
 }
 
 
 // #bdff00 Hot green color 
+
+
+.large_sep {
+        
+        margin-top: 8rem;
+
+       }
+
+       .small_sep {
+        
+        margin-top: 3rem;
+
+       }
+
+        .xlarge_sep {
+        
+        margin-top: 12rem;
+
+       }
+       .xlarge_sep_bottom {
+        
+        margin-bottom: 12rem;
+
+       }

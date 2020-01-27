@@ -6,12 +6,41 @@ body {
   height: 50rem;
   width: 100vw;
   background-color: #111111; }
-  .hero_style .nav_selection {
-    display: flex; }
-    .hero_style .nav_selection .nav_spot {
-      justify-content: space-between;
-      color: #bdff00;
-      font-size: 2rem;
-      font-family: 'M PLUS 1p', sans-serif; }
+  .hero_style .jumbo_reset {
+    background-color: transparent; }
+  .hero_style .lime-background-style {
+    background-color: #bdff00; }
+  .hero_style .headline_font {
+    font-family: 'Passion One', cursive;
+    color: #bdff00; }
+  .hero_style .headline_font_white {
+    font-family: 'Passion One', cursive;
+    color: #ffffff; }
+  .hero_style .small_top_padding {
+    padding-top: 9rem; }
+  .hero_style .nav_spot {
+    color: #bdff00;
+    font-size: 2rem;
+    font-family: 'Passion One', cursive; }
+
+.mosaic-w1 {
+  height: 40rem;
+  width: 100%; }
+
+.mosaic-w2 {
+  height: 40rem;
+  width: 100%; }
+
+.large_sep {
+  margin-top: 8rem; }
+
+.small_sep {
+  margin-top: 3rem; }
+
+.xlarge_sep {
+  margin-top: 12rem; }
+
+.xlarge_sep_bottom {
+  margin-bottom: 12rem; }
 
 /*# sourceMappingURL=main_style.css.map */
